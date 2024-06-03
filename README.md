@@ -47,18 +47,25 @@ To get a local copy of this project up and running, follow these steps:
 ### Installation
 
 1. Clone the repository:
+
     ```sh
     git clone https://github.com/mururi/nike_landing_page.git
     ```
+
 2. Navigate to the project directory:
+
     ```sh
     cd nike-landing-page
     ```
+
 3. Install dependencies:
+
     ```sh
     npm install
     ```
+
     or
+
     ```sh
     yarn install
     ```
@@ -66,13 +73,17 @@ To get a local copy of this project up and running, follow these steps:
 ### Running the Application
 
 1. Start the development server:
+
     ```sh
     npm run dev
     ```
+
     or
+
     ```sh
     yarn dev
     ```
+
 2. Open your browser and navigate to `http://localhost:5174` to see the application in action.
 
 ## Usage
@@ -92,6 +103,7 @@ This project was created by Dennis Kiboi on June 3, 2024.
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
+
 If you have any questions or feedback, feel free to contact me:
 
 - Email: mururi.kiboi@gmail.com
